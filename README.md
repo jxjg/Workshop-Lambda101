@@ -36,6 +36,6 @@ printing Hello World.
 * Test your Lambda and view the output/logs
 
 ## Step-by-Step Instructions
-Click here for the pdf
+Click [here](Workshop-Lambda101.pdf) for the pdf file of step-by-step instructions
 
 
