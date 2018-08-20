@@ -38,4 +38,9 @@ printing Hello World.
 ## Step-by-Step Instructions
 Click [here](Workshop-Lambda101.pdf) for the pdf file of step-by-step instructions
 
+## Coming soon
+* Workshop: Lambda Functions using CodeBuild & Code Pipeline (Serverless CI/CD)
+* Workshop: Lambda Functions 201 (Triggering Events)
+* Workshop: API Gateway with Lambda Functions
+
 
