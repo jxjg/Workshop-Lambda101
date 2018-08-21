@@ -9,6 +9,10 @@ to simply give you experience in creating and testing a Lambda Function. The sec
 will read a single record from DynamoDB so that you can do something useful with Lambda other than
 printing Hello World.
 
+## Prerequisites
+* Pre-read(or watch): [AWS Lambda Video Podcast](https://youtu.be/F-uAVnktnjA)
+* AWS account for use in the exercise (all resources should be free tier)
+
 ## What you are building
 
 ![alt text](./WorkshopDiagram.png "Workshop Diagram")
@@ -36,9 +40,6 @@ printing Hello World.
 * Test your Lambda and view the output/logs
 
 ## Step-by-Step Instructions
-
-Pre-read(or watch): [AWS Lambda Video Podcast](https://youtu.be/F-uAVnktnjA)
-
 Click [here](Workshop-Lambda101.pdf) for the pdf file of step-by-step instructions
 
 ## Coming soon
