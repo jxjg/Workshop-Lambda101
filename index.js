@@ -8,7 +8,7 @@ exports.handler = (event, context, callback) => {
     var currentUser = 'mehs'; //req.params.lanID;
 // get the user info if it exits
     var params = {
-        TableName: 'user-info',
+        TableName: 'user-info-mehs',
         KeyConditionExpression: "lanID = :value",
         ExpressionAttributeValues: {
             ":value": currentUser
