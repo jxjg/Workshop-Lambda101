@@ -15,21 +15,21 @@ printing Hello World.
 
 ## How you will build it
 
-*Section 1: Create an IAM role to be used with the two lambda functions that we will create in the Workshop*
+**Section 1: Create an IAM role to be used with the two lambda functions that we will create in the Workshop**
 * Create and IAM role
 * Attach full access rights to DynamoDB
 
-*Section 2: Create a Hello World Lambda Function*
+**Section 2: Create a Hello World Lambda Function**
 * Use a blueprint Lambda function
 * Create a test event
 * Test the Lambda Function
 * View the output/logs
 
-*Section 3: Setting up DynamoDB with a single record*
+**Section 3: Setting up DynamoDB with a single record**
 * Create a DynamoDB table
 * Add a single record to the DynamoDB Table
 
-*Section 4: Using Lambda to retrieve data from DynamoDB*
+**Section 4: Using Lambda to retrieve data from DynamoDB**
 * Create a blank Lambda using Nodejs
 * Insert custom code to read from your DynamoDB table
 * Create a test event
@@ -39,8 +39,8 @@ printing Hello World.
 Click [here](Workshop-Lambda101.pdf) for the pdf file of step-by-step instructions
 
 ## Coming soon
-* Workshop: Lambda Functions using CodeBuild & Code Pipeline (Serverless CI/CD)
-* Workshop: Lambda Functions 201 (Triggering Events)
-* Workshop: API Gateway with Lambda Functions
+* **Workshop:** Lambda Functions using CodeBuild & Code Pipeline (Serverless CI/CD)
+* **Workshop:** Lambda Functions 201 (Triggering Events)
+* **Workshop:** API Gateway with Lambda Functions
 
 
