@@ -11,7 +11,7 @@ printing Hello World.
 
 ## Prerequisites
 * Pre-read(or watch): [AWS Lambda Video Podcast](https://youtu.be/F-uAVnktnjA)
-* AWS account for use in the exercise (all resources should be free tier)
+* AWS account for use in the workshop (all resources should be free tier)
 
 ## What you are building
 
