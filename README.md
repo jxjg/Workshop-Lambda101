@@ -36,6 +36,9 @@ printing Hello World.
 * Test your Lambda and view the output/logs
 
 ## Step-by-Step Instructions
+
+Pre-read(or watch): [AWS Lambda Video Podcast](https://youtu.be/F-uAVnktnjA)
+
 Click [here](Workshop-Lambda101.pdf) for the pdf file of step-by-step instructions
 
 ## Coming soon
