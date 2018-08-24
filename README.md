@@ -10,7 +10,7 @@ will read a single record from DynamoDB so that you can do something useful with
 printing Hello World.
 
 ## Prerequisites
-* Pre-read(or watch): [AWS Lambda Video Podcast](https://youtu.be/F-uAVnktnjA)
+* **Pre-watch:** [AWS Lambda Video Podcast](https://youtu.be/F-uAVnktnjA)
 * AWS account for use in the workshop (all resources should be free tier)
 
 ## What you are building
@@ -42,9 +42,11 @@ printing Hello World.
 ## Step-by-Step Instructions
 Click [here](Workshop-Lambda101.pdf) for the pdf file of step-by-step instructions
 
-## Coming soon
-* **Workshop:** Lambda Functions using CodeBuild & Code Pipeline (Serverless CI/CD)
-* **Workshop:** Lambda Functions 201 (Triggering Events)
-* **Workshop:** API Gateway with Lambda Functions
+## What next?
+* **Workshop:** [Lambda Functions using CodeBuild & Code Pipeline (Serverless CI/CD)](https://github.com/VanguardArchitecture/Workshop-LambdaCICD)
+* **Workshop: (Coming Soon)** Lambda Functions 201 (Triggering Events)
+* **Workshop:(Coming Soon)** API Gateway with Lambda Functions
 
-
+## Authored By
+* Michael Hansen - Prinicpal IT Architect - PG&E
+* Billy Glenn - Prinicpal IT Architect - PG&E
