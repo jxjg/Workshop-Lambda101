@@ -5,10 +5,10 @@ AWS.config.update({
 var docClient = new AWS.DynamoDB.DocumentClient();
 exports.handler = (event, context, callback) => {
 // get the entered user from the query string
-    var currentUser = 'mehs'; //req.params.lanID;
+    var currentUser = 'mjs1'; //req.params.lanID;
 // get the user info if it exits
     var params = {
-        TableName: 'user-info-mehs',
+        TableName: 'user-info',
         KeyConditionExpression: "lanID = :value",
         ExpressionAttributeValues: {
             ":value": currentUser
