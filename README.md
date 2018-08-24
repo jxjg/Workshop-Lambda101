@@ -47,6 +47,9 @@ Click [here](Workshop-Lambda101.pdf) for the pdf file of step-by-step instructio
 * **Workshop: (Coming Soon)** Lambda Functions 201 (Triggering Events)
 * **Workshop:(Coming Soon)** API Gateway with Lambda Functions
 
+## References
+* [AWS Lambda Developer's Guide](https://docs.aws.amazon.com/lambda/latest/dg/lambda-dg.pdf)
+
 ## Authored By
 * Michael Hansen - Prinicpal IT Architect - PG&E
 * Billy Glenn - Prinicpal IT Architect - PG&E
