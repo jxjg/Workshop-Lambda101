@@ -31,7 +31,7 @@ printing Hello World.
 
 **Section 3: Setting up DynamoDB with a single record**
 * Create a DynamoDB table
-* Add a single record to the DynamoDB Table
+* Add two records in the DynamoDB Table
 
 **Section 4: Using Lambda to retrieve data from DynamoDB**
 * Create a blank Lambda using Nodejs
